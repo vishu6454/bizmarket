@@ -20,7 +20,7 @@ import FAQ from './pages/FAQ'
 import LegalDocuments from './pages/LegalDocuments'
 import SupportCenter from './pages/SupportCenter'
 import PaymentPage from './pages/PaymentPage'
-import './app.css'
+
 
 function App() {
   return (
